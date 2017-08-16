@@ -10,9 +10,6 @@ D:\CodeFirst\WebServiceApplication\webservice.api\obj\Debug\webservice.api.cspro
 D:\CodeFirst\WebServiceApplication\demo_webservice\webservice.api\bin\webservice.api.dll
 D:\CodeFirst\WebServiceApplication\demo_webservice\webservice.api\bin\webservice.api.pdb
 D:\CodeFirst\WebServiceApplication\demo_webservice\webservice.api\bin\EntityFramework.dll
-D:\CodeFirst\WebServiceApplication\demo_webservice\webservice.api\bin\Model.Library.dll
-D:\CodeFirst\WebServiceApplication\demo_webservice\webservice.api\bin\Model.Library.pdb
 D:\CodeFirst\WebServiceApplication\demo_webservice\webservice.api\bin\EntityFramework.xml
-D:\CodeFirst\WebServiceApplication\demo_webservice\webservice.api\obj\Debug\webservice.api.csprojResolveAssemblyReference.cache
 D:\CodeFirst\WebServiceApplication\demo_webservice\webservice.api\obj\Debug\webservice.api.dll
 D:\CodeFirst\WebServiceApplication\demo_webservice\webservice.api\obj\Debug\webservice.api.pdb

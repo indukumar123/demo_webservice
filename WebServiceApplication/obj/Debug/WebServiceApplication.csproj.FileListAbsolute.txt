@@ -1,5 +1,0 @@
-D:\CodeFirst\WebServiceApplication\WebServiceApplication\bin\WebServiceApplication.dll
-D:\CodeFirst\WebServiceApplication\WebServiceApplication\bin\WebServiceApplication.pdb
-D:\CodeFirst\WebServiceApplication\WebServiceApplication\obj\Debug\WebServiceApplication.csprojResolveAssemblyReference.cache
-D:\CodeFirst\WebServiceApplication\WebServiceApplication\obj\Debug\WebServiceApplication.dll
-D:\CodeFirst\WebServiceApplication\WebServiceApplication\obj\Debug\WebServiceApplication.pdb

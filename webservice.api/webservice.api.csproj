@@ -141,7 +141,7 @@
     <None Include="Scripts\jquery.validate-vsdoc.js" />
     <Content Include="Scripts\jquery.validate.js" />
     <Content Include="Scripts\jquery.validate.min.js" />
-    <Content Include="UI\Index.html" />
+    <Content Include="Index.html" />
     <Content Include="Web.config" />
     <Content Include="Scripts\jquery-3.1.1.min.map" />
     <Content Include="Scripts\jquery-3.1.1.slim.min.map" />
@@ -151,9 +151,12 @@
       <DependentUpon>DataService.asmx</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="Model\Login.cs" />
+    <Compile Include="Model\LoginViewModel.cs" />
     <Compile Include="Model\mst_0010.cs">
       <DependentUpon>userDb.tt</DependentUpon>
     </Compile>
+    <Compile Include="Model\User.cs" />
     <Compile Include="Model\userDb.Context.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -191,12 +194,6 @@
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Model.Library\Model.Library.csproj">
-      <Project>{b1c1dc1a-8d03-4695-a44c-67e594b6d444}</Project>
-      <Name>Model.Library</Name>
-    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
