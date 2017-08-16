@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="regoModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="regoModelStoreContainer">
+    <EntitySet Name="mst_0010" EntityType="regoModel.Store.mst_0010" store:Type="Tables" store:Schema="dbo" store:Name="mst_0010">
+      <DefiningQuery>SELECT 
+      [mst_0010].[MST_CODE] AS [MST_CODE], 
+      [mst_0010].[MST_MOBI] AS [MST_MOBI], 
+      [mst_0010].[MST_NAME] AS [MST_NAME], 
+      [mst_0010].[MST_MAIL] AS [MST_MAIL], 
+      [mst_0010].[FLD_BLCK] AS [FLD_BLCK], 
+      [mst_0010].[FLD_SCDE] AS [FLD_SCDE], 
+      [mst_0010].[FLD_SECR] AS [FLD_SECR], 
+      [mst_0010].[MST_DVID] AS [MST_DVID]
+      FROM [dbo].[mst_0010] AS [mst_0010]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'rego.dbo.mst_0010' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="mst_0010">
+    <Key>
+      <PropertyRef Name="MST_CODE" />
+      <PropertyRef Name="MST_MOBI" />
+      <PropertyRef Name="MST_NAME" />
+      <PropertyRef Name="MST_MAIL" />
+    </Key>
+    <Property Name="MST_CODE" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="MST_MOBI" Type="numeric" Nullable="false" />
+    <Property Name="MST_NAME" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="MST_MAIL" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="FLD_BLCK" Type="bit" />
+    <Property Name="FLD_SCDE" Type="nvarchar" MaxLength="50" />
+    <Property Name="FLD_SECR" Type="bit" />
+    <Property Name="MST_DVID" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+</Schema>

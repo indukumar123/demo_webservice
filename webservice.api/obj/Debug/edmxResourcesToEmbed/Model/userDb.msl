@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="regoModelStoreContainer" CdmEntityContainer="regoEntities">
+    <EntitySetMapping Name="mst_0010">
+      <EntityTypeMapping TypeName="regoModel.mst_0010">
+        <MappingFragment StoreEntitySet="mst_0010">
+          <ScalarProperty Name="MST_CODE" ColumnName="MST_CODE" />
+          <ScalarProperty Name="MST_MOBI" ColumnName="MST_MOBI" />
+          <ScalarProperty Name="MST_NAME" ColumnName="MST_NAME" />
+          <ScalarProperty Name="MST_MAIL" ColumnName="MST_MAIL" />
+          <ScalarProperty Name="FLD_BLCK" ColumnName="FLD_BLCK" />
+          <ScalarProperty Name="FLD_SCDE" ColumnName="FLD_SCDE" />
+          <ScalarProperty Name="FLD_SECR" ColumnName="FLD_SECR" />
+          <ScalarProperty Name="MST_DVID" ColumnName="MST_DVID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

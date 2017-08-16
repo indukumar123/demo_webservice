@@ -1,0 +1,9 @@
+D:\CodeFirst\WebServiceApplication\Model.Library\bin\Debug\Model.Library.dll
+D:\CodeFirst\WebServiceApplication\Model.Library\bin\Debug\Model.Library.pdb
+D:\CodeFirst\WebServiceApplication\Model.Library\obj\Debug\Model.Library.dll
+D:\CodeFirst\WebServiceApplication\Model.Library\obj\Debug\Model.Library.pdb
+D:\CodeFirst\WebServiceApplication\demo_webservice\Model.Library\bin\Debug\Model.Library.dll
+D:\CodeFirst\WebServiceApplication\demo_webservice\Model.Library\bin\Debug\Model.Library.pdb
+D:\CodeFirst\WebServiceApplication\demo_webservice\Model.Library\obj\Debug\Model.Library.csprojResolveAssemblyReference.cache
+D:\CodeFirst\WebServiceApplication\demo_webservice\Model.Library\obj\Debug\Model.Library.dll
+D:\CodeFirst\WebServiceApplication\demo_webservice\Model.Library\obj\Debug\Model.Library.pdb
