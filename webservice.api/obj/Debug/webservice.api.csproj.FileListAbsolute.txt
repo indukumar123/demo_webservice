@@ -13,3 +13,6 @@ D:\CodeFirst\WebServiceApplication\demo_webservice\webservice.api\bin\EntityFram
 D:\CodeFirst\WebServiceApplication\demo_webservice\webservice.api\bin\EntityFramework.xml
 D:\CodeFirst\WebServiceApplication\demo_webservice\webservice.api\obj\Debug\webservice.api.dll
 D:\CodeFirst\WebServiceApplication\demo_webservice\webservice.api\obj\Debug\webservice.api.pdb
+D:\CodeFirst\WebServiceApplication\demo_webservice\webservice.api\obj\Debug\webservice.api.csprojResolveAssemblyReference.cache
+D:\CodeFirst\WebServiceApplication\demo_webservice\webservice.api\bin\EntityFramework.SqlServer.dll
+D:\CodeFirst\WebServiceApplication\demo_webservice\webservice.api\bin\EntityFramework.SqlServer.xml
